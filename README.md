@@ -71,4 +71,21 @@ T5-small60 million parameters 6 layers of encoder 6 layers of decoder each encod
 3.**Pre-fine tuning T5 for Keyword extraction** <br/>
 4.**Reducing resources with Pruning** <br/>
 5.**Text summarization with transformer :  Pegasus** <br/>
+![image](https://github.com/user-attachments/assets/617376f9-137e-4060-9b99-d0388d19c62f) <br/>
+-its main task is to predict missing or masked words in a sentences .
 
+- employs an encoder-decoder architecture
+
+- the encoder takes in the input and processes it to create a representation to captures the contextual information of the text 
+
+-the decoder generates the summary based on this encoded representation
+
+-based on attention mechanism (self-attention) 
+
+-the model is already fine-tuned on a specific sum tasks
+
+-during inference : 
+
+beam search algorithm  explore multiple potential summary sequences.
+
+Iterative refinement : strategy to improve the quality of the generated summary
