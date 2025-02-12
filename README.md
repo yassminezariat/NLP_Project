@@ -12,7 +12,7 @@ Reducing Educational Inequalities for Children with Dyslexia through Programs an
 > [!IMPORTANT]
 > Health and Education
 
-health problems account for approximately 20% of the reasons why children fail to complete primary school (World Health Organization).
+*health problems account for approximately 20% of the reasons why children fail to complete primary school (World Health Organization).
 
 30% worldwide of the elementary school population is struggling with reading (Unesco 2021).
  
