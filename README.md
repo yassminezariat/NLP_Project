@@ -1,12 +1,12 @@
 # NLP_Project
-Big Idea
+* *Big Idea* *
 Inequalities arising from health deficiencies : Dyslexia
 The need to promote programs and assistive technologies that aim to help and assist children in their lecture activities.
 
-Essential Question
+* *Essential Question* *
 How can we promote and implement effective programs and assistive technologies to support children with dyslexia in their learning activities?
 
-Challenge
+* *Challenge* *
 Reducing Educational Inequalities for Children with Dyslexia through Programs and Assistive Technologies in Lecture Activities.
 
 > [!IMPORTANT]
@@ -22,7 +22,7 @@ health problems account for approximately 20% of the reasons why children fail t
  70% - 80% of people with poor reading skills are likely to be dyslexic (Dyslexia Center of Utah).
 
 
-WHAT IS DYSLEXIA ? 
+* *WHAT IS DYSLEXIA ? * *
 Dyslexia is a learning disorder that affects a person's ability to read, write, and spell. It is a neurological condition that can make it difficult for individuals to process language, which can result in problems with reading fluency, accuracy, and comprehension.
 
 Generating Guiding Questions
