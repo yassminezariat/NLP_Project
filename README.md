@@ -40,6 +40,6 @@ The use of : Text-to-speech , Speech-to-text (AudioBooks), Text Summarization
 
 **Dataset**
 I leveraged web scraping to collect the data, preparing it for the next steps.
-Books in children's literature (sorted by population) and free kids books : 
+Books in children's literature (sorted by population) and free kids books : <br/>
 ![image](https://github.com/user-attachments/assets/2684e563-093d-4f9e-999d-ff2cbaeab42b)
 
