@@ -56,7 +56,7 @@ Books in children's literature (sorted by population) and free kids books : <br/
 > We can download Vosk model from "https://alphacephei.com/vosk/models" <br/>
 
 
-1.**T5** <br/>
+2.**T5** <br/>
 ![image](https://github.com/user-attachments/assets/bc3270ff-e210-4687-893c-4dcbeb502f44)<br/>
 
 * Transformer-based model architecture with addition of a text-to-text framework It casts various NLP tasks into a text-to-text format, where both the input and output are represented as text.
@@ -66,7 +66,9 @@ Books in children's literature (sorted by population) and free kids books : <br/
 * Various variants : T5-small, T5-based, T5-large, T5-3b, T5-11b 
 
 * Model used : 
-T5-small60 million parameters
-6 layers of encode
-r 6 layers of decoder 
-each encoder and decoder layer contains 8 self-attention heads
+T5-small60 million parameters 6 layers of encoder 6 layers of decoder each encoder and decoder layer contains 8 self-attention heads
+
+3.**Pre-fine tuning T5 for Keyword extraction** <br/>
+4.**Reducing resources with Pruning** <br/>
+5.**Text summarization with transformer :  Pegasus** <br/>
+
