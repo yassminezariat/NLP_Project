@@ -54,3 +54,5 @@ Books in children's literature (sorted by population) and free kids books : <br/
 * In addition to the pre-trained models, Vosk also provides tools for training custom models on specific datasets. This can be useful for applications that require speech recognition for specialized domains or languages that are not included in the pre-trained models. Overall, Vosk is a powerful and flexible toolkit for building speech recognition applications. <br/>
 > [!IMPORTANT]
 > We can download Vosk model from "https://alphacephei.com/vosk/models" <br/>
+1.**T5** <br/>
+
