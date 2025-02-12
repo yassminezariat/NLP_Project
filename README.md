@@ -9,7 +9,8 @@ How can we promote and implement effective programs and assistive technologies t
 Challenge
 Reducing Educational Inequalities for Children with Dyslexia through Programs and Assistive Technologies in Lecture Activities.
 
-Health and Education
+> [!IMPORTANT]
+> Health and Education
 
 health problems account for approximately 20% of the reasons why children fail to complete primary school (World Health Organization).
 
