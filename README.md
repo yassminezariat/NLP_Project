@@ -21,8 +21,8 @@ Reducing Educational Inequalities for Children with Dyslexia through Programs an
 
  * 70% - 80% of people with poor reading skills are likely to be dyslexic (Dyslexia Center of Utah).
 
-
-* *WHAT IS DYSLEXIA ? * *
+> [!IMPORTANT]
+> WHAT IS DYSLEXIA ?  <br/>
 Dyslexia is a learning disorder that affects a person's ability to read, write, and spell. It is a neurological condition that can make it difficult for individuals to process language, which can result in problems with reading fluency, accuracy, and comprehension.
 
 Generating Guiding Questions
