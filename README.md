@@ -38,7 +38,8 @@ Comprehensive evaluation that includes assessment of reading and writing abiliti
 The use of : Text-to-speech , Speech-to-text (AudioBooks), Text Summarization
 
 
-Dataset:
+**Dataset**
 I leveraged web scraping to collect the data, preparing it for the next steps.
 Books in children's literature (sorted by population) and free kids books : 
+![image](https://github.com/user-attachments/assets/2684e563-093d-4f9e-999d-ff2cbaeab42b)
 
