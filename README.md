@@ -25,15 +25,16 @@ Reducing Educational Inequalities for Children with Dyslexia through Programs an
 > WHAT IS DYSLEXIA ?  <br/>
 Dyslexia is a learning disorder that affects a person's ability to read, write, and spell. It is a neurological condition that can make it difficult for individuals to process language, which can result in problems with reading fluency, accuracy, and comprehension.
 
-Generating Guiding Questions
+> [!TIP]
+>Generating Guiding Questions
 
-what is the impact of this disability on the individual ?
+*what is the impact of this disability on the individual ?
 Experience difficulties with phonological processing, working memory and attention. 
 
-What are current best practices for identifying dyslexia in children and adults ?
+*What are current best practices for identifying dyslexia in children and adults ?
 Comprehensive evaluation that includes assessment of reading and writing abilities, phonological processing, working memory and attention.
 
- How can technology be used to support individuals with dyslexia ? 
+*How can technology be used to support individuals with dyslexia ? 
 
 The use of : Text-to-speech , Speech-to-text (AudioBooks), Text Summarization
 
