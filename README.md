@@ -35,9 +35,10 @@ Experience difficulties with phonological processing, working memory and attenti
 Comprehensive evaluation that includes assessment of reading and writing abilities, phonological processing, working memory and attention.
 
 * How can technology be used to support individuals with dyslexia ?   <br/>
-
 The use of : Text-to-speech , Speech-to-text (AudioBooks), Text Summarization
 
 
 Dataset:
 I leveraged web scraping to collect the data, preparing it for the next steps.
+Books in children's literature (sorted by population) and free kids books : 
+
