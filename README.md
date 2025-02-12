@@ -46,4 +46,11 @@ Books in children's literature (sorted by population) and free kids books : <br/
  
 **Modeling**  <br/>
 
-1.VOSK <br/>
+1.**VOSK** <br/>
+![image](https://github.com/user-attachments/assets/8b290b69-9bae-4b1e-b393-131f7dc35f23)
+ <br/>
+ * Vosk supports multiple neural network architectures, including LSTM and transformer models, and offers pre-trained models for several languages,including English, Spanish, French, German, Italian, Portuguese, Russian, Turkish, and Chinese. These models can be used for offline speech recognition, meaning that the speech data is processed locally on the user's device, rather than being sent to a remote server for processing. This can be useful for applications that require fast and reliable speech recognition, such as voice-controlled assistants or transcription tools. <br/>
+
+* In addition to the pre-trained models, Vosk also provides tools for training custom models on specific datasets. This can be useful for applications that require speech recognition for specialized domains or languages that are not included in the pre-trained models. Overall, Vosk is a powerful and flexible toolkit for building speech recognition applications. <br/>
+> [!IMPORTANT]
+> We can download Vosk model from "https://alphacephei.com/vosk/models" <br/>
