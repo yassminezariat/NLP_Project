@@ -57,5 +57,16 @@ Books in children's literature (sorted by population) and free kids books : <br/
 
 
 1.**T5** <br/>
-![image](https://github.com/user-attachments/assets/bc3270ff-e210-4687-893c-4dcbeb502f44)
+![image](https://github.com/user-attachments/assets/bc3270ff-e210-4687-893c-4dcbeb502f44)<br/>
 
+* Transformer-based model architecture with addition of a text-to-text framework It casts various NLP tasks into a text-to-text format, where both the input and output are represented as text.
+
+* T5  utilizes a token masking mechanism called "Masked Language Modeling" (MLM) to enhance the model's learning. This mechanism involves masking certain words in the input text and training the model to predict these masked words.
+
+* Various variants : T5-small, T5-based, T5-large, T5-3b, T5-11b 
+
+* Model used : 
+T5-small60 million parameters
+6 layers of encode
+r 6 layers of decoder 
+each encoder and decoder layer contains 8 self-attention heads
