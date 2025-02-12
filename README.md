@@ -12,14 +12,14 @@ Reducing Educational Inequalities for Children with Dyslexia through Programs an
 > [!IMPORTANT]
 > Health and Education
 
-* * health problems account for approximately 20% of the reasons why children fail to complete primary school (World Health Organization).
+* health problems account for approximately 20% of the reasons why children fail to complete primary school (World Health Organization).
 
-* *30% worldwide of the elementary school population is struggling with reading (Unesco 2021).
+* 30% worldwide of the elementary school population is struggling with reading (Unesco 2021).
  
 
-* *15% to 20% of students has a language based learning disability (Dyslexia Center of Utah).
+* 15% to 20% of students has a language based learning disability (Dyslexia Center of Utah).
 
- * *70% - 80% of people with poor reading skills are likely to be dyslexic (Dyslexia Center of Utah).
+ * 70% - 80% of people with poor reading skills are likely to be dyslexic (Dyslexia Center of Utah).
 
 
 * *WHAT IS DYSLEXIA ? * *
