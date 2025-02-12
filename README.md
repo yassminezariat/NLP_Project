@@ -93,4 +93,8 @@ Iterative refinement : strategy to improve the quality of the generated summary
 6.**Evaluation of bart + T5 + Pegasus + GPT2 for text summarazation :** <br/>
 
 **Web Application**  <br/>
+![Image](https://github.com/user-attachments/assets/ab8fb693-1dbc-4cbb-9c15-6131c9bfb0b1)
 
+![Image](https://github.com/user-attachments/assets/b7da78b2-5e22-4932-8658-26a39c349d58)
+
+![Image](https://github.com/user-attachments/assets/ee1eadf8-8c22-40e8-bdf1-f555d80a6fb5)
