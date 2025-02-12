@@ -1,12 +1,12 @@
 # NLP_Project
-* *Big Idea* *<br/>
+* *Big Idea* <br/>
 Inequalities arising from health deficiencies : Dyslexia
 The need to promote programs and assistive technologies that aim to help and assist children in their lecture activities.
 
-* *Essential Question* *<br/>
+* *Essential Question* <br/>
 How can we promote and implement effective programs and assistive technologies to support children with dyslexia in their learning activities?
 
-* *Challenge* *<br/>
+* *Challenge* <br/>
 Reducing Educational Inequalities for Children with Dyslexia through Programs and Assistive Technologies in Lecture Activities.
 
 > [!IMPORTANT]
