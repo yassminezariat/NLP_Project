@@ -91,3 +91,6 @@ beam search algorithm  explore multiple potential summary sequences.
 Iterative refinement : strategy to improve the quality of the generated summary
 <br/>
 6.**Evaluation of bart + T5 + Pegasus + GPT2 for text summarazation :** <br/>
+
+**Web Application**  <br/>
+
